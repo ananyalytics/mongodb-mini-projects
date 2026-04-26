@@ -61,19 +61,19 @@ Main assignment problems.
 
 Includes:
 
-Bookstore system
-Food ordering system
-Library membership system
-Digital payment system
-Marketing analytics system
+* Bookstore system
+* Food ordering system
+* Library membership system
+* Digital payment system
+* Marketing analytics system
 
 Covers:
 
-CRUD operations
-filtering and sorting
-update and delete
-indexing
-aggregation
+* CRUD operations
+* filtering and sorting
+* update and delete
+* indexing
+* aggregation
 
 ---
 
@@ -84,23 +84,23 @@ Additional practice problems (common set).
 
 Includes multiple small systems like:
 
-menu system
-contact book
-to-do list
-expense tracker
-parking system
-courier tracking
-fitness logger
-hospital / pharmacy systems
-banking / loan system
-and more...
+* menu system
+* contact book
+* to-do list
+* expense tracker
+* parking system
+* courier tracking
+* fitness logger
+* hospital / pharmacy systems
+* banking / loan system
+* and more...
 
 Covers:
 
-basic MongoDB queries
-filtering
-updates and deletes
-different use-case based data
+* basic MongoDB queries
+* filtering
+* updates and deletes
+* different use-case based data
 
 ---
 
